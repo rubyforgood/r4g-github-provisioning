@@ -1,6 +1,7 @@
 module GithubLabels
   LABELS_AND_COLOURS = {
     "beginner friendly":"C2E0C6",
+    "Good First Issue":"D02AD6",
     "Type: Question":"CC317C",
     "Type: Feature/Redesign":"84B6EB",
     "Type: Documentation":"5319E7",
@@ -11,7 +12,7 @@ module GithubLabels
     "Status: Duplicate":"FEF2C0",
     "Status: Complete":"00FF2F",
     "Status: Blocked":"E11D21",
-    "help wanted":"128A0C",
+    "Help Wanted":"128A0C",
     "hacktoberfest":"ffa500",
     "Priority: Medium":"FBCA04",
     "Priority: Low":"009800",
